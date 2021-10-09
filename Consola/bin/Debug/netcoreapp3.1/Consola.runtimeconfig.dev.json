@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rudar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rudar\\.nuget\\packages"
+    ]
+  }
+}
